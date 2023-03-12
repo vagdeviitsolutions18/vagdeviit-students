@@ -1,1 +1,1 @@
-# vagdeviit-students
+# vagdeviit students
